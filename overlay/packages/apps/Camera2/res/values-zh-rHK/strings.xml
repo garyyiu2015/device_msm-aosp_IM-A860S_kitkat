@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pref_camera_picturesize_entry_13mp">13M(4192x3104)</string>
+    <string name="pref_camera_picturesize_entry_8mp">8M(3264x2448)</string>
+    <string name="pref_camera_picturesize_entry_w6mp">w6M(3200x1920)</string>
+    <string name="pref_camera_picturesize_entry_5mp">5M(2560x1920)</string>
+    <string name="pref_camera_picturesize_entry_w2_4mp">w2.4M(2000x1200)</string>
+    <string name="pref_camera_picturesize_entry_w2mp">w2M(1920x1080)</string>
+    <string name="pref_camera_picturesize_entry_1_3mp">1.3M(1280x960)</string>
+    <string name="pref_camera_picturesize_entry_w0_3mp">w0.3M(800x480)</string>
+    <string name="pref_camera_picturesize_entry_0_3mp">0.3M(640x480)</string>
+ </resources>

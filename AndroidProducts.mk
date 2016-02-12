@@ -1,0 +1,3 @@
+
+PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/a860.mk
